@@ -1,0 +1,16 @@
+title: KohWorks
+description: >- 
+  Experiments, projects, and the random thoughts of Tiensi.
+baseurl: "" # Leave empty for root-level site
+url: "https://www.kohworks.com"
+
+theme: jekyll-theme-minimal # Or whatever GitHub theme you selected
+
+# Optional: navigation links
+github:
+  is_project_page: false
+
+# Optional plugins (limited on GitHub Pages)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
