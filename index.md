@@ -1,9 +1,11 @@
 ---
 layout: default
-title: Welcome to KohWorks
+title: Welcome
 ---
 
-# 👋 Hello!
+# 👋 Welcome to KohWorks
 
-This site is powered by Jekyll + GitHub Pages.
-More coming soon.
+This is the personal domain of Nicholas.  
+Cyber security, AI tools, weird experiments.
+
+Check out the [Contact](/contact) page to get in touch.
